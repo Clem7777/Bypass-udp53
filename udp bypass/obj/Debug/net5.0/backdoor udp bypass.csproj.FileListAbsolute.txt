@@ -1,0 +1,16 @@
+C:\Users\sasuke\Desktop\backdoor udp bypass\bin\Debug\net5.0\backdoor udp bypass.exe
+C:\Users\sasuke\Desktop\backdoor udp bypass\bin\Debug\net5.0\backdoor udp bypass.deps.json
+C:\Users\sasuke\Desktop\backdoor udp bypass\bin\Debug\net5.0\backdoor udp bypass.runtimeconfig.json
+C:\Users\sasuke\Desktop\backdoor udp bypass\bin\Debug\net5.0\backdoor udp bypass.runtimeconfig.dev.json
+C:\Users\sasuke\Desktop\backdoor udp bypass\bin\Debug\net5.0\backdoor udp bypass.dll
+C:\Users\sasuke\Desktop\backdoor udp bypass\bin\Debug\net5.0\ref\backdoor udp bypass.dll
+C:\Users\sasuke\Desktop\backdoor udp bypass\bin\Debug\net5.0\backdoor udp bypass.pdb
+C:\Users\sasuke\Desktop\backdoor udp bypass\obj\Debug\net5.0\backdoor udp bypass.csproj.AssemblyReference.cache
+C:\Users\sasuke\Desktop\backdoor udp bypass\obj\Debug\net5.0\backdoor udp bypass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasuke\Desktop\backdoor udp bypass\obj\Debug\net5.0\backdoor udp bypass.AssemblyInfoInputs.cache
+C:\Users\sasuke\Desktop\backdoor udp bypass\obj\Debug\net5.0\backdoor udp bypass.AssemblyInfo.cs
+C:\Users\sasuke\Desktop\backdoor udp bypass\obj\Debug\net5.0\backdoor udp bypass.csproj.CoreCompileInputs.cache
+C:\Users\sasuke\Desktop\backdoor udp bypass\obj\Debug\net5.0\backdoor udp bypass.dll
+C:\Users\sasuke\Desktop\backdoor udp bypass\obj\Debug\net5.0\ref\backdoor udp bypass.dll
+C:\Users\sasuke\Desktop\backdoor udp bypass\obj\Debug\net5.0\backdoor udp bypass.pdb
+C:\Users\sasuke\Desktop\backdoor udp bypass\obj\Debug\net5.0\backdoor udp bypass.genruntimeconfig.cache

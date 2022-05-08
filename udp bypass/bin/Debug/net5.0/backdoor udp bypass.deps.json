@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "backdoor udp bypass/1.0.0": {
+        "runtime": {
+          "backdoor udp bypass.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "backdoor udp bypass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
